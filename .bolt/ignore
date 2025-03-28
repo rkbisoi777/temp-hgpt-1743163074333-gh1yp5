@@ -1,0 +1,16 @@
+src/components/auth
+src/components/chat
+src/components/compare
+src/components/home
+src/components/layout
+src/components/navigation
+src/components/profile
+src/components/news
+src/data
+src/mockData
+src/store
+src/types
+src/utils
+src/components/report
+src/lib/chat
+src/lib/tools
